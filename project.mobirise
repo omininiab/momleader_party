@@ -31,7 +31,8 @@
     "siteUrl": "undefined",
     "versionFirst": "4.7.7",
     "uniqCompNum": 19,
-    "versionPublish": "4.7.7"
+    "versionPublish": "4.7.7",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -85,13 +86,18 @@
             }
           },
           "title": "Think, Feel &amp; Decide",
-          "text": "Join us for the best party you'll attend all summer! You won't want to miss this.<br><br>MomLeader Dream Party is an event for Moms who have a dream and those who know they want more from Life.\n<br>\n<br>The Party will give Moms the opportunity to unleash, discover and start with their dreams.\n<br>\n<br>It will be a fun filled event where moms can let their hair down, have fun and start on their journey to Significance.<br><br>Admission is free!",
+          "text": "Join us for the best party you'll attend all summer! You won't want to miss this.<br><br>MomLeader Dream Party is an event for Moms who have a dream and those who know they want more from Life.\nThe Party will give Moms the opportunity to unleash, discover and start with their dreams.\nIt will be a fun filled event where moms can let their hair down, have fun and start on their journey to Significance.<br><br><b>Date</b>: Aug. 11. 2018<br><b>Time</b>: 3 PM<br><b>Venue</b>: Community Room, Highstreet Shopping 3122 Mount Lehman Rd, Abbotsford, BC.<br><br>Admission is free!",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.eventbrite.ca/e/momleader-dream-party-tickets-46729733892\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Sign up</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "header6",
-          "_anchor": "header6-a"
+          "_anchor": "header6-a",
+          "_styles": {
+            "P": {
+              "font-size": "16px"
+            }
+          }
         },
         {
           "_params": {

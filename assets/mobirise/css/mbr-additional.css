@@ -517,6 +517,9 @@ a:hover {
 .hamburger-icon:after {
   background-color: #5aac98;
 }
+#header6-a P {
+  font-size: 16px;
+}
 #features19-h .mbr-iconfont {
   background: #5aac98;
   border-color: #5aac98;
