@@ -27,7 +27,7 @@
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "",
-    "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
+    "gdpr": "",
     "siteUrl": "undefined",
     "versionFirst": "4.7.7",
     "uniqCompNum": 19,
@@ -300,7 +300,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo17-whitebg-620x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://momleader.com",
+              "link": "http://momleader.com",
               "title": "",
               "linkInNewWindow": true
             },
