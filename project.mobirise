@@ -227,48 +227,6 @@
           }
         },
         {
-          "_params": {
-            "autoplay": false,
-            "timeout": "10",
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "showBullets": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
-            },
-            "overlay": true,
-            "overlayColor": "#5b5f6b",
-            "overlayOpacity": 0.95,
-            "slides": [
-              {
-                "active": true,
-                "showButtons": false,
-                "showImage": true,
-                "showText": true,
-                "showTitle": true,
-                "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2018-06-05-at-18.57.39-1024x1024.jpg",
-                "title": "Face of the party Contest",
-                "contentAlign": "center",
-                "text": "Before the party we will be having a competition for the face of the Dream party. Instructions will be sent to the email of those interested. Enter your email below to indicate your interest.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black btn-black-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "alt": ""
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features1",
-          "_anchor": "features1-j"
-        },
-        {
           "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
@@ -368,9 +326,9 @@
         },
         {
           "_params": {
-            "showTitle": false,
-            "showText": false,
-            "paddingTop": "0",
+            "showTitle": true,
+            "showText": true,
+            "paddingTop": "1",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
@@ -381,9 +339,9 @@
             "overlayColor": "#f6f7f8",
             "overlayOpacity": 0.5
           },
-          "title": "Face of the party Contest",
+          "title": "Win a free photoshoot session ($500 value)",
           "subtitle": "Get notified about new amazing products",
-          "text": "Before the party we will be having a competition for the face of the Dream party. Instructions will be sent to the email of those interested. Enter your email below to indicate your interest.",
+          "text": "Enter our Face of the Dream Party Contest where you stand a chance to win our Free outdoor photoshoot session.  This competition will be before the party and the winner will also be the Face of our Dream Party!!! Interested? Sign up and get full instructions in your email.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-primary\">Send</a>",
           "form": {
             "action": "nikefamojuro@momleader.com",
