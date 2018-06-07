@@ -589,6 +589,14 @@ a:hover {
 #menu1-0 .dropdown-item[aria-expanded="true"] {
   color: #616161!important;
 }
+#msg-box5-n .mbr-section-title {
+  color: #fff;
+  line-height: 1;
+}
+#msg-box5-n .round-text {
+  color: #fff;
+  text-align: left;
+}
 #subscribe1-i .form-control-label {
   color: undefined;
 }
